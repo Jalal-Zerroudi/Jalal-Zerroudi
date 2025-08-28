@@ -33,29 +33,6 @@
 
 ---
 
-## 📦 Projets phares  
-
-<div align="center">
-
-<!-- Carte 3D style moderne -->
-<a href="https://github.com/Jalal-Zerroudi/Portfolio-3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalal-Zerroudi&repo=Portfolio-3D&theme=tokyonight&border_radius=20&show_icons=true" />
-</a>
-
-<a href="https://github.com/Jalal-Zerroudi/DentalClinicDb1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalal-Zerroudi&repo=DentalClinicDb1&theme=tokyonight&border_radius=20&show_icons=true" />
-</a>
-
-<a href="https://github.com/Jalal-Zerroudi/Titanic_Survival">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalal-Zerroudi&repo=Titanic_Survival&theme=tokyonight&border_radius=20&show_icons=true" />
-</a>
-
-</div>
-
----
-
-## 🌐 Animation 3D (démo intégrée)
-
 <p align="center">
   <model-viewer src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" 
     alt="Avatar 3D" auto-rotate camera-controls 
@@ -67,7 +44,7 @@
 
 ---
 
-## 📊 Stats GitHub  
+## Stats GitHub  
 
 <div align="center">
   
@@ -80,11 +57,11 @@
 
 ## 🤝 Contact  
 
-<div align="center">
+<div>
 
 🌍 [Portfolio](https://jalal-zerroudi.github.io) •  
 💼 [LinkedIn](https://linkedin.com/in/jalal-zerroudi) •  
-📧 jalal@example.com  
+📧 jalal.Zerroudi@usmba.ac.ma
 
 </div>
 
