@@ -1,8 +1,8 @@
-# 👋 Salut, je suis **Jalal Zerroudi** 
+# 👋 Hi, I'm **Jalal Zerroudi** 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Master+Big+Data+%26+Syst%C3%A8mes+Intelligents;D%C3%A9veloppeur+Full-Stack;Data+Scientist+en+devenir;Passionn%C3%A9+par+l'IA+%26+le+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Master's+in+Big+Data+%26+Intelligent+Systems;Full-Stack+Developer;Aspiring+Data+Scientist;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,27 +13,27 @@
 
 ---
 
-## 🚀 **À propos de moi**
+## 🚀 **About Me**
 
-> **"Transformateur de données en valeur"** - Étudiant passionné par l'IA, le Big Data et le développement de solutions intelligentes.
+> **"Data to Value Transformer"** - Student passionate about AI, Big Data, and developing intelligent solutions.
 
-🎓 **Master BDSI** à la Faculté des Sciences Dhar El Mahraz, USMBA – Fès  
-🌍 **Basé à Fès, Maroc** | 22 ans  
-🎯 **Objectif :** Concevoir des solutions Web intelligentes et sécurisées pour l'industrie 4.0  
+**Master's in BDSI** at Faculty of Sciences Dhar El Mahraz, USMBA – Fez  
+**Based in Fez, Morocco** | 22 years old  
+**Goal:** Design intelligent and secure Web solutions for Industry 4.0  
 
-### 🔥 **Ce que je fais actuellement :**
-- 📊 Développement de solutions **Big Data** et **IA**
-- 🌐 Création d'applications **Full-Stack** modernes
-- 🤖 Projets de **Machine Learning** et **Deep Learning**
-- 🏭 Solutions **IoT** pour l'industrie intelligente
+### 🔥 **What I'm currently doing:**
+- Developing **Big Data** and **AI** solutions
+- Creating modern **Full-Stack** applications
+- **Machine Learning** and **Deep Learning** projects
+- **IoT** solutions for smart industry
 
 ---
 
-## 🛠️ **Stack Technologique**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### **Langages & Frameworks**
+### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -41,21 +41,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Data Science & IA**
+### **Data Science & AI**
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
-### **Backend & Base de Données**
+### **Backend & Databases**
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 
-### **DevOps & Outils**
+### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -64,29 +64,30 @@
 
 ---
 
-## 🎯 **Projets Phares**
+## 🎯 **Featured Projects**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🧠 **Machine Learning**
-- **Titanic Survival Prediction** 🚢
-- **House Price Prediction** 🏠
-- **MNIST Digit Recognition** 🔢
-- **Sentiment Analysis Twitter** 📱
-- **DDoS Attack Detection** 🔒
+- **Titanic Survival Prediction** 
+- **House Price Prediction** 
+- **MNIST Digit Recognition** 
+- **Twitter Sentiment Analysis** 
+- **DDoS Attack Detection** 
+- **Facial Emotion Recognition** 
 
 **Tech Stack:** `Python` `Scikit-learn` `TensorFlow` `Pandas`
 
 </td>
 <td width="50%">
 
-### 🌐 **Applications Web**
-- **COVID-19 Dashboard** avec prédictions 📊
-- **Tableaux de bord interactifs** (Symfony)
-- **Système IoT Parking Intelligent** 🚗
-- **Gestion École** (.NET WPF) 🎓
+### 🌐 **Web Applications**
+- **COVID-19 Dashboard** with predictions 
+- **Interactive Dashboards** (Symfony)
+- **Smart Parking IoT System** 
+- **School Management System** (.NET WPF) 
 
 **Tech Stack:** `PHP` `Symfony` `React` `MySQL` `Docker`
 
@@ -96,7 +97,7 @@
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 📊 **GitHub Statistics**
 
 <div align="center">
   
@@ -113,41 +114,53 @@
 
 ---
 
-## 🎓 **Formation**
+## 🎓 **Education**
 
-**🎯 Master Big Data & Systèmes Intelligents (2024 - Présent)**  
-*Faculté des Sciences Dhar El Mahraz, USMBA – Fès*  
-> Programme sélectif encadré par 25+ enseignants-chercheurs
+**🎯 Master's in Big Data & Intelligent Systems (2024 - Present)**  
+*Faculty of Sciences Dhar El Mahraz, USMBA – Fez*  
+> Selective program supervised by 25+ professor-researchers, ranked among the best Moroccan Masters in AI and Big Data
 
-**📚 Licence Mathématiques & Informatique (2023-2024)**  
-*FSDM, USMBA – Fès*
-
----
-
-## 💼 **Expérience**
-
-### **Développeur Web** | *DIGITAL VALLEY* `08/2024 - 12/2024`
-- 🎨 Création de tableaux de bord interactifs avec **PHP Symfony 7**
-- 📊 Développement de modules statistiques et visualisations
-- ⚡ Optimisation des performances et UX
+**📚 Bachelor's in Mathematics & Computer Science (2023-2024)**  
+*FSDM, USMBA – Fez*  
+> Final project: Car rental management application in .NET 8.0, WPF, MySQL
 
 ---
 
-## 🌍 **Langues**
+## 💼 **Experience**
+
+### **Web Developer** | *DIGITAL VALLEY* `08/2024 - 12/2024`
+- Created interactive dashboards with **PHP Symfony 7** and **MySQL**
+- Developed statistical modules and data visualizations
+- Performance optimization and UX improvements
+- Collaborated on enhancing user experience and system performance
+
+---
+
+## 🌍 **Languages**
 
 <div align="center">
 
-| Langue | Niveau | Progression |
-|--------|--------|-------------|
-| 🇲🇦 Arabe | Natif | ████████████████████ 100% |
-| 🇺🇸 Anglais | Professionnel | ████████████▒▒▒▒▒▒▒▒ 60% |
-| 🇫🇷 Français | Professionnel | ████████████▒▒▒▒▒▒▒▒ 60% |
+| Language | Level | Proficiency |
+|----------|-------|-------------|
+| 🇲🇦 Arabic | Native | ████████████████████ 100% |
+| 🇺🇸 English | Professional | ████████████▒▒▒▒▒▒▒▒ 60% |
+| 🇫🇷 French | Professional | ████████████▒▒▒▒▒▒▒▒ 60% |
 
 </div>
 
 ---
 
-## 🤝 **Connectons-nous !**
+## 🎯 **Professional Interests**
+
+<div align="center">
+
+`Data Science` • `AI & Machine Learning` • `Big Data Analytics` • `Cloud Computing` • `Full-Stack Development` • `Cybersecurity`
+
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
 
 <div align="center">
 
@@ -162,9 +175,11 @@
 
 <div align="center">
   
-### 💭 **"L'intelligence artificielle n'est pas une technologie, c'est une nouvelle façon de penser."**
+### 💭 **"Artificial Intelligence is not a technology, it's a new way of thinking."**
 
-**⭐ Si mes projets vous intéressent, n'hésitez pas à les star !**
+**🎯 Internship Goal:** Design intelligent Web solutions and secure applications for Industry 4.0, combining machine learning with cybersecurity best practices.
+
+**⭐ If you find my projects interesting, feel free to star them!**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
