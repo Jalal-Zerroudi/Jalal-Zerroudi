@@ -53,25 +53,25 @@
 <td valign="top" width="50%">
 
 **Programming Languages**
-```
+
 Python          ████████████████████ 95%
 Java            ███████████████▒▒▒▒▒ 75%
 JavaScript      ██████████████▒▒▒▒▒▒ 70%
 PHP             █████████████▒▒▒▒▒▒▒ 65%
 C#              ████████████▒▒▒▒▒▒▒▒ 60%
-```
+
 
 </td>
 <td valign="top" width="50%">
 
 **Technical Domains**
-```
+
 Machine Learning ████████████████████ 90%
 Data Analysis   ███████████████████▒ 95%
 Web Development ██████████████████▒▒ 85%
 Database Design █████████████████▒▒▒ 80%
 DevOps          ████████████▒▒▒▒▒▒▒▒ 60%
-```
+
 
 </td>
 </tr>
