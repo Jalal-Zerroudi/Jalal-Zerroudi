@@ -34,7 +34,7 @@
 
 <div align="center">
 
-| ** Languages** | ** Frameworks** | ** Data Science** | ** Databases** | ** Tools** |
+| **Languages** | **Frameworks** | **Data Science** | **Databases** | **Tools** |
 |:---------------:|:----------------:|:------------------:|:----------------:|:------------:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) |
