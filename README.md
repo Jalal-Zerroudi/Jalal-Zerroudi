@@ -14,27 +14,27 @@
 
 ---
 
-## 🎯 **About Me**
+## **About Me**
 
 > **"Transforming Data into Intelligent Solutions"** - Master's student passionate about AI, Big Data, and developing cutting-edge solutions for Industry 4.0
 
-🎓 **Master's in Big Data & Intelligent Systems** at Faculty of Sciences Dhar El Mahraz, USMBA – Fez  
-📍 **Based in Fez, Morocco** | 🎂 22 years old  
-🚀 **Goal:** Design intelligent and secure Web solutions for Industry 4.0  
+ **Master's in Big Data & Intelligent Systems** at Faculty of Sciences Dhar El Mahraz, USMBA – Fez  
+ **Based in Fez, Morocco** | 🎂 22 years old  
+ **Goal:** Design intelligent and secure Web solutions for Industry 4.0  
 
-### 🔥 **Currently Working On:**
-- 🧠 Developing **Big Data** and **AI** solutions
-- 💻 Creating modern **Full-Stack** applications
-- 🤖 **Machine Learning** and **Deep Learning** projects
-- 🌐 **IoT** solutions for smart industry
+###  **Currently Working On:**
+-  Developing **Big Data** and **AI** solutions
+-  Creating modern **Full-Stack** applications
+-  **Machine Learning** and **Deep Learning** projects
+-  **IoT** solutions for smart industry
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠 **Tech Stack**
 
 <div align="center">
 
-| **💻 Languages** | **🚀 Frameworks** | **🧠 Data Science** | **🗄️ Databases** | **🔧 Tools** |
+| ** Languages** | ** Frameworks** | ** Data Science** | ** Databases** | ** Tools** |
 |:---------------:|:----------------:|:------------------:|:----------------:|:------------:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) |
@@ -44,31 +44,31 @@
 
 </div>
 
-### 📊 **Skill Levels**
+###  **Skill Levels**
 
 <div align="center">
 
 ```
-🐍 Python          ████████████████████ 95%
-☕ Java            ███████████████▒▒▒▒▒ 75%
-🌐 JavaScript      ██████████████▒▒▒▒▒▒ 70%
-🐘 PHP             █████████████▒▒▒▒▒▒▒ 65%
-🔷 C#              ████████████▒▒▒▒▒▒▒▒ 60%
+ Python          ████████████████████ 95%
+ Java            ███████████████▒▒▒▒▒ 75%
+ JavaScript      ██████████████▒▒▒▒▒▒ 70%
+ PHP             █████████████▒▒▒▒▒▒▒ 65%
+ C#              ████████████▒▒▒▒▒▒▒▒ 60%
 
-🧠 Machine Learning ████████████████████ 90%
-📊 Data Analysis   ███████████████████▒ 95%
-🌐 Web Development ██████████████████▒▒ 85%
-🗄️ Database Design █████████████████▒▒▒ 80%
-🔧 DevOps          ████████████▒▒▒▒▒▒▒▒ 60%
+ Machine Learning ████████████████████ 90%
+ Data Analysis   ███████████████████▒ 95%
+ Web Development ██████████████████▒▒ 85%
+ Database Design █████████████████▒▒▒ 80%
+ DevOps          ████████████▒▒▒▒▒▒▒▒ 60%
 ```
 
 </div>
 
-### 🏆 **Expertise Areas**
+###  **Expertise Areas**
 
 <div align="center">
 
-| 🎯 **Primary Focus** | 🚀 **Secondary Skills** | 📈 **Learning Next** |
+|  **Primary Focus** |  **Secondary Skills** |  **Learning Next** |
 |:-------------------:|:-----------------------:|:--------------------:|
 | **Machine Learning** | **Full-Stack Web Dev** | **Cloud Computing** |
 | **Data Science** | **Database Design** | **Microservices** |
@@ -79,29 +79,29 @@
 
 ---
 
-## 🌟 **Featured Projects**
+##  **Featured Projects**
 
 <div align="center">
 
-| 🤖 **Machine Learning** | 🌐 **Web Applications** |
+|  **Machine Learning** |  **Web Applications** |
 |:----------------------:|:----------------------:|
-| 🚢 **Titanic Survival Prediction** | 📊 **COVID-19 Dashboard** with predictions |
-| 🏠 **House Price Prediction** | 🅿️ **Smart Parking IoT System** |
-| 🔢 **MNIST Digit Recognition** | 📚 **School Management System** (.NET WPF) |
-| 🐦 **Twitter Sentiment Analysis** | 📈 **Interactive Dashboards** (Symfony) |
-| 🛡️ **DDoS Attack Detection** | 🔄 **Real-time Data Processing** |
-| 😊 **Facial Emotion Recognition** | 🎯 **Business Intelligence Tools** |
+|  **Titanic Survival Prediction** |  **COVID-19 Dashboard** with predictions |
+|  **House Price Prediction** |  **Smart Parking IoT System** |
+|  **MNIST Digit Recognition** |  **School Management System** (.NET WPF) |
+|  **Twitter Sentiment Analysis** |  **Interactive Dashboards** (Symfony) |
+|  **DDoS Attack Detection** |  **Real-time Data Processing** |
+|  **Facial Emotion Recognition** |  **Business Intelligence Tools** |
 
 </div>
 
-### 🔥 **Project Highlights:**
+###  **Project Highlights:**
 - **Tech Stack:** `Python` `Scikit-learn` `TensorFlow` `PHP` `Symfony` `React` `MySQL` `Docker`
 - **Focus Areas:** Machine Learning, Web Development, IoT, Data Visualization
 - **Innovation:** Combining AI with practical business solutions
 
 ---
 
-## 📊 **GitHub Statistics**
+##  **GitHub Statistics**
 
 <div align="center">
   
@@ -118,7 +118,7 @@
 
 ---
 
-## 📈 **Contribution Graph**
+##  **Contribution Graph**
 
 <div align="center">
   
@@ -128,32 +128,32 @@
 
 ---
 
-## 🎓 **Education**
+##  **Education**
 
-### 🎯 **Master's in Big Data & Intelligent Systems** `2024 - Present`
+###  **Master's in Big Data & Intelligent Systems** `2024 - Present`
 **Faculty of Sciences Dhar El Mahraz, USMBA – Fez**
-> 🏆 Selective program supervised by 25+ professor-researchers  
-> 🥇 Ranked among the best Moroccan Masters in AI and Big Data
+>  Selective program supervised by 25+ professor-researchers  
+>  Ranked among the best Moroccan Masters in AI and Big Data
 
-### 📊 **Bachelor's in Mathematics & Computer Science** `2021 - 2024`
+###  **Bachelor's in Mathematics & Computer Science** `2021 - 2024`
 **FSDM, USMBA – Fez**
-> 🚗 **Final Project:** Car rental management application in .NET 8.0, WPF, MySQL  
-> 🎯 **Specialization:** Applied Mathematics and Software Development
+>  **Final Project:** Car rental management application in .NET 8.0, WPF, MySQL  
+>  **Specialization:** Applied Mathematics and Software Development
 
 ---
 
-## 💼 **Professional Experience**
+##  **Professional Experience**
 
-### 💻 **Web Developer** | *DIGITAL VALLEY* `08/2024 - 12/2024`
-- 📊 Created interactive dashboards with **PHP Symfony 7** and **MySQL**
-- 📈 Developed statistical modules and advanced data visualizations
-- ⚡ Performance optimization and UX improvements
-- 🤝 Collaborated on enhancing user experience and system performance
-- 🎯 **Achievement:** Improved dashboard loading speed by 40%
+###  **Web Developer** | *DIGITAL VALLEY* `08/2024 - 12/2024`
+-  Created interactive dashboards with **PHP Symfony 7** and **MySQL**
+-  Developed statistical modules and advanced data visualizations
+-  Performance optimization and UX improvements
+-  Collaborated on enhancing user experience and system performance
+-  **Achievement:** Improved dashboard loading speed by 40%
 
 ---
 
-## 🌍 **Languages**
+##  **Languages**
 
 <div align="center">
 
@@ -167,17 +167,17 @@
 
 ---
 
-## 🏆 **Achievements & Certifications**
+##  **Achievements & Certifications**
 
-- 🎯 **Top Student** in Big Data & Intelligent Systems program
-- 🚀 **5+ Machine Learning Projects** successfully deployed
-- 💡 **IoT Innovation** in smart parking solutions
-- 🔧 **Full-Stack Development** expertise across multiple technologies
-- 📊 **Data Visualization** specialist with advanced dashboard creation
+-  **Top Student** in Big Data & Intelligent Systems program
+-  **5+ Machine Learning Projects** successfully deployed
+-  **IoT Innovation** in smart parking solutions
+-  **Full-Stack Development** expertise across multiple technologies
+-  **Data Visualization** specialist with advanced dashboard creation
 
 ---
 
-## 🎯 **Areas of Interest**
+##  **Areas of Interest**
 
 <div align="center">
 
@@ -188,7 +188,7 @@
 
 ---
 
-## 📫 **Let's Connect!**
+##  **Let's Connect!**
 
 <div align="center">
 
@@ -201,24 +201,24 @@
 
 ---
 
-## 💡 **Fun Facts**
+##  **Fun Facts**
 
-- 🔥 **Passionate** about transforming complex data into actionable insights
-- 🚀 **Always learning** new technologies and frameworks
-- 🎯 **Goal-oriented** with a focus on practical AI applications
-- 🌍 **Believer** in technology's power to solve real-world problems
-- ☕ **Coffee enthusiast** - best code is written with good coffee!
+-  **Passionate** about transforming complex data into actionable insights
+-  **Always learning** new technologies and frameworks
+-  **Goal-oriented** with a focus on practical AI applications
+-  **Believer** in technology's power to solve real-world problems
+-  **Coffee enthusiast** - best code is written with good coffee!
 
 ---
 
 <div align="center">
   
-### 💭 **"Intelligence artificielle n'est pas une technologie, c'est une nouvelle façon de penser."**
+###  **"Intelligence artificielle n'est pas une technologie, c'est une nouvelle façon de penser."**
 
-🎯 **Internship Goal:** Design intelligent Web solutions and secure applications for Industry 4.0,  
+ **Internship Goal:** Design intelligent Web solutions and secure applications for Industry 4.0,  
 combining machine learning with cybersecurity best practices.
 
-⭐ **If you find my projects interesting, feel free to star them!**
+ **If you find my projects interesting, feel free to star them!**
 
 </div>
 
