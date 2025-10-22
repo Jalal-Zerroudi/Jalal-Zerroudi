@@ -18,7 +18,7 @@
 
 ## About Me
 
-*"Turning research into reproducible, intelligent systems."*
+> *"Turning research into reproducible, intelligent systems."*
 
 Master’s student in **Big Data & Intelligent Systems (M2)** at the Faculty of Sciences Dhar El Mehraz, USMBA – Fez.  
 Specialization: **NLP, LLMs, Model Evaluation, and Data Engineering**.  
@@ -131,7 +131,7 @@ Details: [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal
 
 <div align="center">
 
-*"Intelligence is the art of making data speak."*  
+> *"Intelligence is the art of making data speak."*  
 If you find my projects interesting, feel free to star them!
 
 ---
