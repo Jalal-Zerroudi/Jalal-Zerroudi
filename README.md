@@ -36,13 +36,81 @@ Goal: Contribute to AI research and engineering projects in **language models, G
 
 ---
 
-## Tech Stack
+## 🧩 Tech Stack
 
 <div align="center">
 
-| **AI & ML** | **Data Engineering** | **Web & Software** | **Databases** | **MLOps / Tools** |
-|:------------:|:-------------------:|:-------------------:|:--------------:|:------------------:|
-| PyTorch • scikit-learn <br> Transformers • CheckList | PySpark • Airflow • Pandas • NumPy | FastAPI • .NET 8 • WPF • Symfony | MySQL • MongoDB • Neo4j | MLflow • Docker • Power BI • Git • Linux |
+<table>
+<tr>
+<th>AI & Machine Learning</th>
+<th>Data Engineering</th>
+<th>Web & Software Development</th>
+</tr>
+<tr>
+<td>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black)
+![CheckList](https://img.shields.io/badge/CheckList-21759B?style=flat&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+</td>
+<td>
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=flat)
+
+</td>
+<td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=windows&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<th>Databases</th>
+<th>MLOps & Reproducibility</th>
+<th>Tools & Platforms</th>
+</tr>
+<tr>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+</td>
+<td>
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Experiment Tracking](https://img.shields.io/badge/Experiment%20Tracking-1A73E8?style=flat)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git-E44C30?style=flat&logo=git&logoColor=white)
+
+</td>
+<td>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
