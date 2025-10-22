@@ -187,11 +187,12 @@ Details: [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
-![French](https://img.shields.io/badge/French-Fluent-0055A4?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-Native-239120?style=flat-square)
+<img src="https://img.shields.io/badge/English-Professional-1E90FF?style=for-the-badge&labelColor=0D1117&color=1E90FF" />
+<img src="https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge&labelColor=0D1117&color=0055A4" />
+<img src="https://img.shields.io/badge/Arabic-Native-239120?style=for-the-badge&labelColor=0D1117&color=239120" />
 
 </div>
+
 ---
 
 ## Fun Facts
