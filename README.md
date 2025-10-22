@@ -149,13 +149,19 @@ Goal: Contribute to AI research and engineering projects in **language models, G
 
 ## Education
 
-**Master’s in Big Data & Intelligent Systems (2024–Present)**  
-Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
-Research focus: NLP, LLM evaluation, Data Engineering  
+## Education
 
-**Bachelor’s in Mathematics & Computer Science (2021–2024)**  
-Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
-Final Project: Car Rental Management System (.NET 8, WPF, MySQL)
+**Master of Science — Big Data & Intelligent Systems** *(2024 – Present)*  
+**Faculty of Sciences Dhar El Mehraz (FSDM), Sidi Mohamed Ben Abdellah University – Fez, Morocco*  
+- Selective program integrating **Machine Learning**, **Natural Language Processing**, and **Data Engineering**.  
+- Research focus on **Large Language Models (LLMs)**, **robustness evaluation**, and **scalable AI architectures**.  
+- Graduate-level coursework: Advanced ML, Big Data Systems, Deep Learning, Data Warehousing, Cloud Computing.
+
+**Bachelor of Science — Mathematics & Computer Science (SMI)** *(2021 – 2024)*  
+**Faculty of Sciences Dhar El Mehraz (FSDM), USMBA – Fez, Morocco*  
+- Specialized in **Applied Mathematics**, **Software Engineering**, and **Database Systems**.  
+- Final Year Project: *Car Rental Management System* — built with **.NET 8**, **WPF**, and **MySQL**, focusing on architecture, data integrity, and UI responsiveness.  
+- Graduated with solid grounding in algorithmic design, object-oriented programming, and database management.
 
 ---
 
