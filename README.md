@@ -1,155 +1,145 @@
-# Hi, I'm Jalal Zerroudi
+# Jalal Zerroudi
 
-<div align="center">
+Master's Student in Big Data & Intelligent Systems | NLP & LLMs Researcher | Data Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=M2+in+Big+Data+%26+Intelligent+Systems;NLP+%26+LLMs+Researcher;Data+Engineer+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-<p align="center">
-  <a href="https://jalal-zerroudi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jalal-zerroudi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jalal.zerroudi@usmba.ac.ma" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jalal-Zerroudi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-</p>
+[Portfolio](https://jalal-zerroudi.github.io/) | [LinkedIn](https://www.linkedin.com/in/jalal-zerroudi/) | [GitHub](https://github.com/Jalal-Zerroudi) | [Email](mailto:jalal.zerroudi@usmba.ac.ma)
 
 ---
 
-## About Me
+## Profile
 
-> *"Turning research into reproducible, intelligent systems."*
+Research-focused Master's student specializing in Natural Language Processing, Large Language Models, and Data Engineering at the Faculty of Sciences Dhar El Mehraz, USMBA – Fez. Experienced in building reproducible ML pipelines, evaluating model fairness and robustness, and designing intelligent systems. Committed to advancing AI research through rigorous experimentation and production-grade engineering practices.
 
-Master’s student in **Big Data & Intelligent Systems (M2)** at the Faculty of Sciences Dhar El Mehraz, USMBA – Fez.  
-Specialization: **NLP, LLMs, Model Evaluation, and Data Engineering**.  
-Passionate about reproducible research, fairness in AI, and intelligent system design.  
-Goal: Contribute to AI research and engineering projects in **language models, GeoAI, and hybrid recommender systems**.
+**Research Interests:** Model Compression & Evaluation, Bias Detection, GeoAI, Hybrid Recommender Systems, MLOps
 
 ---
 
-## Currently Working On
+## Current Research & Development
 
-- Bias and Robustness Analysis in Compressed Language Models (TinyBERT vs BERT-base)  
-- GeoAI Change Detection using LoRA and Transformer-based architectures  
-- Hybrid Recommender System combining semantic and collaborative filtering  
-- Reproducible ML pipelines with MLflow, Docker, and PySpark  
+**Bias and Robustness Analysis in Compressed Language Models**  
+Systematic evaluation of TinyBERT versus BERT-base using behavioral testing frameworks to assess performance degradation and fairness implications in compressed architectures.
 
----
+**GeoAI Change Detection System**  
+Implementing LoRA-enhanced transformer architectures for satellite imagery analysis, focusing on efficient fine-tuning strategies for temporal change detection tasks.
 
-## Tech Stack
+**Hybrid Recommender System Architecture**  
+Developing a production-ready recommendation engine combining BERT-based semantic understanding with collaborative filtering techniques (SVD) for enhanced personalization.
 
-<div align="center">
-
-| **AI & ML** | **Data Engineering** | **Web & Software** | **Databases** | **MLOps / Tools** |
-|:------------:|:-------------------:|:-------------------:|:--------------:|:------------------:|
-| PyTorch • scikit-learn • Transformers • CheckList | PySpark • Airflow • Pandas • NumPy | FastAPI • .NET 8 • WPF • Symfony | MySQL • MongoDB • Neo4j | MLflow • Docker • Power BI • Git • Linux |
-
-</div>
+**Reproducible ML Pipeline Infrastructure**  
+Designing end-to-end workflows using MLflow for experiment tracking, Docker for containerization, and PySpark for distributed data processing.
 
 ---
 
-## Featured Projects
+## Technical Expertise
 
-<div align="center">
+**Artificial Intelligence & Machine Learning**  
+PyTorch, scikit-learn, Transformers, Hugging Face Ecosystem, CheckList, Model Evaluation Frameworks
 
-| **AI & NLP** | **Web / IoT / Data** |
-|:--------------|:---------------------|
-| [TinyBERT Bias & Robustness](https://jalal-zerroudi.github.io/projets-phares/TinyBERT-Bias) | [Smart Parking with ESP32-CAM](https://jalal-zerroudi.github.io/projets-phares/SmartParking) |
-| [Hybrid Recommender (BERT + SVD)](https://jalal-zerroudi.github.io/projets-phares/NLP-Recommendation) | [ETL Dashboard UVillage – Digital Valley](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1) |
-| [GeoAI Change Detection (LoRA)](https://jalal-zerroudi.github.io/projets-phares/GeoAI-1) | [Energy Efficiency Prediction (ELM vs BP)](https://jalal-zerroudi.github.io/projets-phares/ENB2012) |
+**Data Engineering & Processing**  
+PySpark, Apache Airflow, Pandas, NumPy, ETL Pipeline Design, Data Quality Management
 
-</div>
+**Backend Development**  
+FastAPI, .NET 8, WPF, Symfony 7, RESTful API Design
+
+**Data Storage & Management**  
+MySQL, MongoDB, Neo4j, Graph Databases, Relational & NoSQL Systems
+
+**MLOps & DevOps**  
+MLflow, Docker, Git, Linux, CI/CD, Experiment Tracking, Model Versioning
+
+**Analytics & Visualization**  
+Power BI, Dashboard Design, Statistical Analysis
 
 ---
 
-## GitHub Stats
+## Selected Projects
 
-<div align="center">
+### Natural Language Processing & AI
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jalal-Zerroudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalal-Zerroudi&layout=compact&theme=tokyonight&hide_border=true" />
+**TinyBERT Bias & Robustness Evaluation**  
+Comprehensive behavioral testing study examining fairness and reliability trade-offs in knowledge distillation. Implemented systematic testing protocols using CheckList framework to identify capability degradation patterns.  
+[Project Details](https://jalal-zerroudi.github.io/projets-phares/TinyBERT-Bias)
 
-</div>
+**Hybrid Recommendation System**  
+Production-grade recommender combining BERT embeddings for content understanding with SVD-based collaborative filtering. Achieved improved cold-start performance while maintaining scalability.  
+[Project Details](https://jalal-zerroudi.github.io/projets-phares/NLP-Recommendation)
 
-<div align="center">
+**GeoAI Change Detection with LoRA**  
+Parameter-efficient fine-tuning approach for satellite imagery analysis using Low-Rank Adaptation. Demonstrated significant computational savings while maintaining detection accuracy.  
+[Project Details](https://jalal-zerroudi.github.io/projets-phares/GeoAI-1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jalal-Zerroudi&theme=tokyonight&hide_border=true)
+### Data Engineering & Systems
 
-</div>
+**Multi-Source ETL Pipeline & Analytics Dashboard**  
+Designed and implemented comprehensive data integration system processing web scraping, CSV, and Excel sources. Built analytical dashboards with quality control mechanisms and GDPR compliance.  
+[Project Details](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
+
+**Intelligent Document Processing Module**  
+Developed OCR-integrated system with LLM-based extraction for PDF and image documents. Implemented prompt engineering strategies for structured data extraction from unstructured sources.
+
+**Smart Parking System with ESP32-CAM**  
+IoT-based solution combining computer vision and embedded systems for real-time parking space detection and management.  
+[Project Details](https://jalal-zerroudi.github.io/projets-phares/SmartParking)
+
+**Energy Efficiency Prediction Analysis**  
+Comparative study of Extreme Learning Machine versus Backpropagation networks for building energy consumption forecasting using the ENB2012 dataset.  
+[Project Details](https://jalal-zerroudi.github.io/projets-phares/ENB2012)
 
 ---
 
 ## Education
 
-**Master’s in Big Data & Intelligent Systems (2024–Present)**  
-Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
-Research focus: NLP, LLM evaluation, Data Engineering  
+**Master of Science in Big Data & Intelligent Systems**  
+Faculty of Sciences Dhar El Mehraz, Sidi Mohamed Ben Abdellah University  
+Fez, Morocco | 2024 – Present  
+Research Focus: Natural Language Processing, Large Language Model Evaluation, Data Engineering Architectures
 
-**Bachelor’s in Mathematics & Computer Science (2021–2024)**  
-Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
-Final Project: Car Rental Management System (.NET 8, WPF, MySQL)
+**Bachelor of Science in Mathematics & Computer Science**  
+Faculty of Sciences Dhar El Mehraz, Sidi Mohamed Ben Abdellah University  
+Fez, Morocco | 2021 – 2024  
+Capstone Project: Enterprise Car Rental Management System (.NET 8, WPF, MySQL)
 
 ---
 
 ## Professional Experience
 
-**Data Engineering Intern – DIGITAL VALLEY, Fez (2024)**  
-- Built a multi-source ETL pipeline (Web, CSV, Excel) with data quality control  
-- Designed analytical dashboards with Symfony 7 and MySQL  
-- Developed an OCR + LLM prompt-based IDP module for PDF/JPG extraction  
-- Documented the system and ensured GDPR compliance  
+**Data Engineering Intern**  
+DIGITAL VALLEY, Fez, Morocco | 2024
 
-Details: [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
+Architected and deployed a multi-source ETL pipeline integrating web scraping, CSV, and Excel data streams with comprehensive data quality validation. Developed analytical dashboards using Symfony 7 framework and MySQL database. Engineered an intelligent document processing module combining OCR technology with LLM-based prompt engineering for automated PDF and image data extraction. Established documentation standards and implemented GDPR-compliant data handling procedures.
+
+[Detailed Experience](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
 
 ---
 
 ## Certifications
 
-- Neo4j Certified Professional (2025)  
-- Graph Data Science Foundations (Neo4j, 2025)
+Neo4j Certified Professional | 2025  
+Graph Data Science Foundations | Neo4j, 2025
 
 ---
 
 ## Languages
 
-| Language | Proficiency |
-|:----------|:-------------|
-| English | Professional |
-| French | Fluent |
-| Arabic | Native |
+English: Professional Working Proficiency  
+French: Full Professional Proficiency  
+Arabic: Native Proficiency
 
 ---
 
-## Fun Facts
+## Publications & Research
 
-- Passionate about connecting AI with real-world data problems  
-- Enjoy mentoring and collaborative research  
-- Constantly improving reproducibility in ML workflows  
-- Believe that artificial intelligence is not just technology, but a new way of thinking  
+Available upon request. Current work focuses on fairness evaluation in compressed language models and efficient fine-tuning strategies for domain-specific applications.
 
 ---
 
-<div align="center">
+## Contact
 
-> *"Intelligence is the art of making data speak."*  
-If you find my projects interesting, feel free to star them!
-
----
-
-<p>
-  <a href="https://jalal-zerroudi.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jalal-zerroudi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jalal.zerroudi@usmba.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jalal-Zerroudi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-</p>
+Portfolio: [jalal-zerroudi.github.io](https://jalal-zerroudi.github.io/)  
+LinkedIn: [linkedin.com/in/jalal-zerroudi](https://www.linkedin.com/in/jalal-zerroudi/)  
+Email: jalal.zerroudi@usmba.ac.ma  
+GitHub: [github.com/Jalal-Zerroudi](https://github.com/Jalal-Zerroudi)
 
 ---
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
----
-
-**Made with ❤️ by Jalal Zerroudi**  
 Last Updated: October 2025
-
-</div>
