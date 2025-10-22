@@ -146,8 +146,7 @@ If you find my projects interesting, feel free to star them!
 
 ---
 
-![Snake animation](https://github.com/Jalal-Zerroudi/Jalal-Zerroudi/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
 ---
 
 **Made with ❤️ by Jalal Zerroudi**  
