@@ -42,7 +42,7 @@ Goal: Contribute to AI research and engineering projects in **language models, G
 
 | **AI & ML** | **Data Engineering** | **Web & Software** | **Databases** | **MLOps / Tools** |
 |:------------:|:-------------------:|:-------------------:|:--------------:|:------------------:|
-| PyTorch • scikit-learn • Transformers • CheckList | PySpark • Airflow • Pandas • NumPy | FastAPI • .NET 8 • WPF • Symfony | MySQL • MongoDB • Neo4j | MLflow • Docker • Power BI • Git • Linux |
+| PyTorch • scikit-learn <br> Transformers • CheckList | PySpark • Airflow • Pandas • NumPy | FastAPI • .NET 8 • WPF • Symfony | MySQL • MongoDB • Neo4j | MLflow • Docker • Power BI • Git • Linux |
 
 </div>
 
