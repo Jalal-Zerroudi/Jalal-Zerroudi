@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Jalal Zerroudi**
+# Hi, I'm Jalal Zerroudi
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://jalal-zerroudi.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+  <a href="https://jalal-zerroudi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jalal-zerroudi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jalal.zerroudi@usmba.ac.ma" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Jalal-Zerroudi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -16,27 +16,27 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-> *"Turning research into reproducible, intelligent systems."*
+*"Turning research into reproducible, intelligent systems."*
 
-🎓 **M2 in Big Data & Intelligent Systems** – Faculty of Sciences Dhar El Mehraz, USMBA (Fez, Morocco)  
-💡 **Focus:** NLP • LLMs • Model Evaluation • Data Engineering  
-🧑‍💻 **Passionate about:** Reproducible research, fairness in AI, and intelligent system design  
-🚀 **Goal:** Contribute to **AI research labs & industrial R&D** on NLP, GeoAI, or hybrid recommender systems  
-
----
-
-### 🔭 Currently Working On
-
-- 🤖 **Bias & Robustness Analysis** in Compressed Language Models (TinyBERT vs BERT-base)  
-- 🌍 **GeoAI Change Detection** (LoRA • PyTorch • Satellite Imagery)  
-- 🧩 **Hybrid Recommender System** (semantic + collaborative filtering)  
-- ⚙️ **Reproducible ML Pipelines** using MLflow, Docker & PySpark  
+Master’s student in **Big Data & Intelligent Systems (M2)** at the Faculty of Sciences Dhar El Mehraz, USMBA – Fez.  
+Specialization: **NLP, LLMs, Model Evaluation, and Data Engineering**.  
+Passionate about reproducible research, fairness in AI, and intelligent system design.  
+Goal: Contribute to AI research and engineering projects in **language models, GeoAI, and hybrid recommender systems**.
 
 ---
 
-## 🧰 Tech Stack
+## Currently Working On
+
+- Bias and Robustness Analysis in Compressed Language Models (TinyBERT vs BERT-base)  
+- GeoAI Change Detection using LoRA and Transformer-based architectures  
+- Hybrid Recommender System combining semantic and collaborative filtering  
+- Reproducible ML pipelines with MLflow, Docker, and PySpark  
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -48,21 +48,21 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🧠 **AI & NLP** | 🌐 **Web / IoT / Data** |
-|:----------------|:------------------------|
-| [**TinyBERT Bias & Robustness**](https://jalal-zerroudi.github.io/projets-phares/TinyBERT-Bias) | [**Smart Parking with ESP32-CAM**](https://jalal-zerroudi.github.io/projets-phares/SmartParking) |
-| [**Hybrid Recommender (BERT + SVD)**](https://jalal-zerroudi.github.io/projets-phares/NLP-Recommendation) | [**ETL Dashboard UVillage – Digital Valley**](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1) |
-| [**GeoAI Change Detection (LoRA)**](https://jalal-zerroudi.github.io/projets-phares/GeoAI-1) | [**Energy Efficiency Prediction (ELM vs BP)**](https://jalal-zerroudi.github.io/projets-phares/ENB2012) |
+| **AI & NLP** | **Web / IoT / Data** |
+|:--------------|:---------------------|
+| [TinyBERT Bias & Robustness](https://jalal-zerroudi.github.io/projets-phares/TinyBERT-Bias) | [Smart Parking with ESP32-CAM](https://jalal-zerroudi.github.io/projets-phares/SmartParking) |
+| [Hybrid Recommender (BERT + SVD)](https://jalal-zerroudi.github.io/projets-phares/NLP-Recommendation) | [ETL Dashboard UVillage – Digital Valley](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1) |
+| [GeoAI Change Detection (LoRA)](https://jalal-zerroudi.github.io/projets-phares/GeoAI-1) | [Energy Efficiency Prediction (ELM vs BP)](https://jalal-zerroudi.github.io/projets-phares/ENB2012) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -79,60 +79,60 @@
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 **Master’s in Big Data & Intelligent Systems** (2024–Present)  
-> Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
-> Research focus: NLP, LLM evaluation, Data Engineering  
+**Master’s in Big Data & Intelligent Systems (2024–Present)**  
+Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
+Research focus: NLP, LLM evaluation, Data Engineering  
 
-🎓 **Bachelor’s in Mathematics & Computer Science (SMI)** (2021–2024)  
-> Final Project: *Car Rental Management System* (.NET 8, WPF, MySQL)
+**Bachelor’s in Mathematics & Computer Science (2021–2024)**  
+Faculty of Sciences Dhar El Mehraz – USMBA, Fez  
+Final Project: Car Rental Management System (.NET 8, WPF, MySQL)
 
 ---
 
-## 💼 Experience
+## Professional Experience
 
 **Data Engineering Intern – DIGITAL VALLEY, Fez (2024)**  
-- Built an ETL pipeline (Web, CSV, Excel) with data quality control  
-- Designed analytical dashboards with Symfony 7 + MySQL  
-- Developed OCR + LLM prompt-based IDP module for PDF/JPG extraction  
-- Documented system & ensured GDPR compliance  
+- Built a multi-source ETL pipeline (Web, CSV, Excel) with data quality control  
+- Designed analytical dashboards with Symfony 7 and MySQL  
+- Developed an OCR + LLM prompt-based IDP module for PDF/JPG extraction  
+- Documented the system and ensured GDPR compliance  
 
-🧾 *Details:* [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
-
----
-
-## 🧾 Certifications
-
-- 🧠 **Neo4j Certified Professional (2025)**  
-- 🔗 **Graph Data Science Foundations (Neo4j, 2025)**  
+Details: [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
 
 ---
 
-## 🌍 Languages
+## Certifications
+
+- Neo4j Certified Professional (2025)  
+- Graph Data Science Foundations (Neo4j, 2025)
+
+---
+
+## Languages
 
 | Language | Proficiency |
 |:----------|:-------------|
-| 🇺🇸 English | Professional |
-| 🇫🇷 French | Fluent |
-| 🇲🇦 Arabic | Native |
+| English | Professional |
+| French | Fluent |
+| Arabic | Native |
 
 ---
 
-## ☕ Fun Facts
+## Fun Facts
 
-- 🧩 Love connecting AI with real-world data problems  
-- 💬 Enjoy mentoring and sharing knowledge  
-- ⚙️ Always improving reproducibility in research  
-- ☕ Best code written with Moroccan coffee  
-- 💡 Believe that *AI is not just technology, but a mindset*  
+- Passionate about connecting AI with real-world data problems  
+- Enjoy mentoring and collaborative research  
+- Constantly improving reproducibility in ML workflows  
+- Believe that artificial intelligence is not just technology, but a new way of thinking  
 
 ---
 
 <div align="center">
 
-### 🧭 *"Intelligence is the art of making data speak."*  
-⭐ If you enjoy my projects, consider giving them a star!
+*"Intelligence is the art of making data speak."*  
+If you find my projects interesting, feel free to star them!
 
 ---
 
@@ -151,6 +151,6 @@
 ---
 
 **Made with ❤️ by Jalal Zerroudi**  
-📅 *Last Updated: October 2025*
+Last Updated: October 2025
 
 </div>
