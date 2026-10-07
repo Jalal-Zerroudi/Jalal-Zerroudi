@@ -1,230 +1,74 @@
-# Hi, I'm Jalal Zerroudi
+# Jalal Zerroudi
 
-<div align="center">
+**Machine Learning & Deep Learning · Python · Recherche en intelligence artificielle**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=M2+in+Big+Data+%26+Intelligent+Systems;NLP+%26+LLMs+Researcher;Data+Engineer+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mahraz, Université Sidi Mohamed Ben Abdellah (Fès). Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
 
-</div>
+[Portfolio](https://jalal-zerroudi.github.io/) · [LinkedIn](https://www.linkedin.com/in/jalal-zerroudi/) · [E-mail](mailto:jalal.zerroudi@usmba.ac.ma)
 
-<p align="center">
-  <a href="https://jalal-zerroudi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jalal-zerroudi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jalal.zerroudi@usmba.ac.ma" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jalal-Zerroudi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-</p>
+## Projet de recherche
 
----
+### Optimisation du transfert multimédia dans les réseaux de capteurs par apprentissage par renforcement
+*Projet de fin d’études · février – juillet 2026*
 
-## About Me
+- Modélisation d’un système dynamique de réseau de capteurs avec **NS-3 / NS3-AI**.
+- Conception et expérimentation d’une stratégie de **Q-learning**.
+- Évaluation selon le délai, la consommation énergétique, le taux de livraison des paquets (PDR), le PSNR et le SSIM.
+- Résultats expérimentaux rapportés : réduction du délai de **86 %** et de la consommation énergétique de **69 %**, avec un **PDR de 100 %**.
+- Développement d’un tableau de bord **Flask** et d’un environnement reproductible avec **Docker**.
 
-> *"Turning research into reproducible, intelligent systems."*
+[Voir le projet](https://jalal-zerroudi.github.io/PFE-BDSI)
 
-Master’s student in **Big Data & Intelligent Systems (M2)** at the Faculty of Sciences Dhar El Mehraz, USMBA – Fez.  
-Specialization: **NLP, LLMs, Model Evaluation, and Data Engineering**.  
-Passionate about reproducible research, fairness in AI, and intelligent system design.  
-Goal: Contribute to AI research and engineering projects in **language models, GeoAI, and hybrid recommender systems**.
+## Expérience
 
----
+### Stagiaire Data Engineering & Business Intelligence — WIT’INNOV
+*Juillet 2026 – présent*
 
-## Currently Working On
+- Conception et automatisation de pipelines ELT pour intégrer, transformer et fiabiliser des données métier.
+- Orchestration de workflows avec **Apache Airflow** et **dbt**.
+- Modélisation et contrôle qualité des données pour l’analyse et le reporting.
+- Création de mesures analytiques et de tableaux de bord avec **Power BI**.
 
-- Bias and Robustness Analysis in Compressed Language Models (TinyBERT vs BERT-base)  
-- GeoAI Change Detection using LoRA and Transformer-based architectures  
-- Hybrid Recommender System combining semantic and collaborative filtering  
-- Reproducible ML pipelines with MLflow, Docker, and PySpark  
+### Stagiaire IA — Acacia Intelligent
+*Janvier – juillet 2026 · Agent NL2GraphQL pour Sage X3 V12*
 
----
+- Développement en Python d’un agent utilisant **RAG et des LLM** pour convertir des requêtes en langage naturel en requêtes GraphQL.
+- Conception d’une architecture combinant routage déterministe, récupération de contexte et orchestration par LLM.
+- Automatisation de l’extraction et de l’exploitation de données issues de Sage X3 V12.
+- Développement d’une API **Flask** et d’une interface en ligne de commande, avec tests et optimisation du pipeline.
 
-## 🧩 Tech Stack
+### Stagiaire Data Engineering & IA — DIGITAL VALLEY, Fès
+*Juillet – septembre 2025*
 
-<div align="center">
+- Développement d’un pipeline ETL multi-sources pour des données Web, CSV et Excel.
+- Traitement de documents PDF et JPG avec des données textuelles et visuelles.
+- Extraction automatique de champs à l’aide de l’OCR et de modèles de langage.
+- Création d’un tableau de bord Power BI avec indicateurs, filtres dynamiques et actualisation automatisée.
 
-<table>
-<tr>
-<th>AI & Machine Learning</th>
-<th>Data Engineering</th>
-<th>Web & Software Development</th>
-</tr>
-<tr>
-<td>
+## Formation
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black)
-![CheckList](https://img.shields.io/badge/CheckList-21759B?style=flat&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- **Master Big Data & Systèmes Intelligents**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2024–2026
+- **Licence Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2023–2024
+- **DEUG Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2021–2023
+- **Baccalauréat Sciences Mathématiques A**, Lycée Lalla Amina, Meknès · 2021
 
-</td>
-<td>
+## Compétences
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=flat)
+- **Machine Learning :** scikit-learn, XGBoost, Random Forest, SVM, clustering
+- **Deep Learning :** PyTorch, CNN, LSTM, Transformers
+- **Apprentissage séquentiel :** apprentissage par renforcement, Q-learning
+- **NLP :** Hugging Face, BERT, embeddings, LLM, RAG
+- **Vision par ordinateur :** YOLOv8, OpenCV, traitement d’images
+- **Données et programmation :** Python, Pandas, NumPy, Jupyter, SQL
+- **Data Engineering :** ETL/ELT, Apache Airflow, dbt, Spark
+- **Bases de données :** PostgreSQL, MongoDB, entrepôts de données
+- **Développement et MLOps :** Docker, Git, MLflow, Flask, Streamlit
 
-</td>
-<td>
+## Activités
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=windows&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- Participation au **Festival des Sciences Fès–Meknès**, Lycée Moulay Idriss, Fès · avril 2025
+- **IoT Leader**, FSDM IT CLUB : participation et encadrement d’activités liées à l’Internet des objets durant le Master
 
-</td>
-</tr>
+## Langues
 
-<tr>
-<th>Databases</th>
-<th>MLOps & Reproducibility</th>
-<th>Tools & Platforms</th>
-</tr>
-<tr>
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-</td>
-<td>
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Experiment Tracking](https://img.shields.io/badge/Experiment%20Tracking-1A73E8?style=flat)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git-E44C30?style=flat&logo=git&logoColor=white)
-
-</td>
-<td>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| **AI & NLP** | **Web / IoT / Data** |
-|:--------------|:---------------------|
-| [TinyBERT Bias & Robustness](https://jalal-zerroudi.github.io/projets-phares/TinyBERT-Bias) | [Smart Parking with ESP32-CAM](https://jalal-zerroudi.github.io/projets-phares/SmartParking) |
-| [Hybrid Recommender (BERT + SVD)](https://jalal-zerroudi.github.io/projets-phares/NLP-Recommendation) | [ETL Dashboard UVillage – Digital Valley](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1) |
-| [GeoAI Change Detection (LoRA)](https://jalal-zerroudi.github.io/projets-phares/GeoAI-1) | [Energy Efficiency Prediction (ELM vs BP)](https://jalal-zerroudi.github.io/projets-phares/ENB2012) |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jalal-Zerroudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalal-Zerroudi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jalal-Zerroudi&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Education
-
-## Education
-
-**Master of Science — Big Data & Intelligent Systems** *(2024 – Present)*  
-**Faculty of Sciences Dhar El Mehraz (FSDM), Sidi Mohamed Ben Abdellah University – Fez, Morocco*  
-- Selective program integrating **Machine Learning**, **Natural Language Processing**, and **Data Engineering**.  
-- Research focus on **Large Language Models (LLMs)**, **robustness evaluation**, and **scalable AI architectures**.  
-- Graduate-level coursework: Advanced ML, Big Data Systems, Deep Learning, Data Warehousing, Cloud Computing.
-
-**Bachelor of Science — Mathematics & Computer Science (SMI)** *(2021 – 2024)*  
-**Faculty of Sciences Dhar El Mehraz (FSDM), USMBA – Fez, Morocco*  
-- Specialized in **Applied Mathematics**, **Software Engineering**, and **Database Systems**.  
-- Final Year Project: *Car Rental Management System* — built with **.NET 8**, **WPF**, and **MySQL**, focusing on architecture, data integrity, and UI responsiveness.  
-- Graduated with solid grounding in algorithmic design, object-oriented programming, and database management.
-
----
-
-## Professional Experience
-
-**Data Engineering Intern – DIGITAL VALLEY, Fez (2024)**  
-- Built a multi-source ETL pipeline (Web, CSV, Excel) with data quality control  
-- Designed analytical dashboards with Symfony 7 and MySQL  
-- Developed an OCR + LLM prompt-based IDP module for PDF/JPG extraction  
-- Documented the system and ensured GDPR compliance  
-
-Details: [jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1](https://jalal-zerroudi.github.io/stages/StagiaireDIGITALVALLEY1)
-
----
-
-## Certifications
-
-- Neo4j Certified Professional (2025)  
-- Graph Data Science Foundations (Neo4j, 2025)
-
----
-## Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/English-Professional-1E90FF?style=for-the-badge&labelColor=0D1117&color=1E90FF" />
-<img src="https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge&labelColor=0D1117&color=0055A4" />
-<img src="https://img.shields.io/badge/Arabic-Native-239120?style=for-the-badge&labelColor=0D1117&color=239120" />
-
-</div>
-
----
-
-## Fun Facts
-
-- Passionate about connecting AI with real-world data problems  
-- Enjoy mentoring and collaborative research  
-- Constantly improving reproducibility in ML workflows  
-- Believe that artificial intelligence is not just technology, but a new way of thinking  
-
----
-
-<div align="center">
-
-> *"Intelligence is the art of making data speak."*  
-If you find my projects interesting, feel free to star them!
-
----
-
-<p>
-  <a href="https://jalal-zerroudi.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jalal-zerroudi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jalal.zerroudi@usmba.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jalal-Zerroudi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-</p>
-
----
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
----
-
-**Made with ❤️ by Jalal Zerroudi**  
-Last Updated: October 2025
-
-</div>
+Arabe (natif) · Français (courant) · Anglais (intermédiaire : documentation technique et scientifique)
