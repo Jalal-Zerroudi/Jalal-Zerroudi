@@ -1,12 +1,27 @@
+<div align="center">
+
 # Jalal Zerroudi
 
-**Machine Learning & Deep Learning · Python · Recherche en intelligence artificielle**
+### Machine Learning · Deep Learning · Data Engineering
+
+[![Typing animation](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=680&lines=Machine+Learning+%26+Deep+Learning;Python+%7C+RAG+%7C+Reinforcement+Learning;Building+reproducible+data+and+AI+systems)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://jalal-zerroudi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-zerroudi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalal.zerroudi@usmba.ac.ma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jalal-Zerroudi)
+
+📍 Fès, Maroc
+
+</div>
+
+---
+
+## 👋 Profil
 
 Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mahraz, Université Sidi Mohamed Ben Abdellah (Fès). Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
 
-[Portfolio](https://jalal-zerroudi.github.io/) · [LinkedIn](https://www.linkedin.com/in/jalal-zerroudi/) · [E-mail](mailto:jalal.zerroudi@usmba.ac.ma)
-
-## Projet de recherche
+## 🔬 Projet de recherche
 
 ### Optimisation du transfert multimédia dans les réseaux de capteurs par apprentissage par renforcement
 *Projet de fin d’études · février – juillet 2026*
@@ -17,9 +32,9 @@ Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des
 - Résultats expérimentaux rapportés : réduction du délai de **86 %** et de la consommation énergétique de **69 %**, avec un **PDR de 100 %**.
 - Développement d’un tableau de bord **Flask** et d’un environnement reproductible avec **Docker**.
 
-[Voir le projet](https://jalal-zerroudi.github.io/PFE-BDSI)
+[![Voir le projet](https://img.shields.io/badge/Consulter_le_projet-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://jalal-zerroudi.github.io/PFE-BDSI)
 
-## Expérience
+## 💼 Expérience
 
 ### Stagiaire Data Engineering & Business Intelligence — WIT’INNOV
 *Juillet 2026 – présent*
@@ -45,30 +60,38 @@ Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des
 - Extraction automatique de champs à l’aide de l’OCR et de modèles de langage.
 - Création d’un tableau de bord Power BI avec indicateurs, filtres dynamiques et actualisation automatisée.
 
-## Formation
+## 🎓 Formation
 
 - **Master Big Data & Systèmes Intelligents**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2024–2026
 - **Licence Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2023–2024
 - **DEUG Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2021–2023
 - **Baccalauréat Sciences Mathématiques A**, Lycée Lalla Amina, Meknès · 2021
 
-## Compétences
+## 🧰 Compétences
 
-- **Machine Learning :** scikit-learn, XGBoost, Random Forest, SVM, clustering
-- **Deep Learning :** PyTorch, CNN, LSTM, Transformers
-- **Apprentissage séquentiel :** apprentissage par renforcement, Q-learning
-- **NLP :** Hugging Face, BERT, embeddings, LLM, RAG
-- **Vision par ordinateur :** YOLOv8, OpenCV, traitement d’images
-- **Données et programmation :** Python, Pandas, NumPy, Jupyter, SQL
-- **Data Engineering :** ETL/ELT, Apache Airflow, dbt, Spark
-- **Bases de données :** PostgreSQL, MongoDB, entrepôts de données
-- **Développement et MLOps :** Docker, Git, MLflow, Flask, Streamlit
+| Domaine | Outils et méthodes |
+|---|---|
+| **Machine Learning** | scikit-learn, XGBoost, Random Forest, SVM, clustering |
+| **Deep Learning** | PyTorch, CNN, LSTM, Transformers |
+| **Apprentissage séquentiel** | apprentissage par renforcement, Q-learning |
+| **NLP** | Hugging Face, BERT, embeddings, LLM, RAG |
+| **Vision par ordinateur** | YOLOv8, OpenCV, traitement d’images |
+| **Données et programmation** | Python, Pandas, NumPy, Jupyter, SQL |
+| **Data Engineering** | ETL/ELT, Apache Airflow, dbt, Spark |
+| **Bases de données** | PostgreSQL, MongoDB, entrepôts de données |
+| **Développement et MLOps** | Docker, Git, MLflow, Flask, Streamlit |
 
-## Activités
+## 🌍 Activités et langues
 
 - Participation au **Festival des Sciences Fès–Meknès**, Lycée Moulay Idriss, Fès · avril 2025
 - **IoT Leader**, FSDM IT CLUB : participation et encadrement d’activités liées à l’Internet des objets durant le Master
 
-## Langues
+**Arabe** (natif) · **Français** (courant) · **Anglais** (intermédiaire : documentation technique et scientifique)
 
-Arabe (natif) · Français (courant) · Anglais (intermédiaire : documentation technique et scientifique)
+---
+
+<div align="center">
+
+*Merci de consulter mon profil.*
+
+</div>
