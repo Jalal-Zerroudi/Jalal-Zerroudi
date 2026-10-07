@@ -19,7 +19,7 @@
 
 ## 👋 Profil
 
-Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mahraz, Université Sidi Mohamed Ben Abdellah (Fès). Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
+Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mehraz, Université Sidi Mohamed Ben Abdellah (Fès). Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
 
 ## 🔬 Projet de recherche
 
