@@ -88,6 +88,14 @@ Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des
 
 **Arabe** (natif) · **Français** (courant) · **Anglais** (intermédiaire : documentation technique et scientifique)
 
+## 📈 Activité GitHub
+
+<div align="center">
+
+![Animation du calendrier de contributions GitHub](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
+
+</div>
+
 ---
 
 <div align="center">
