@@ -19,7 +19,7 @@
 
 ## 👋 Profil
 
-Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mehraz, Université Sidi Mohamed Ben Abdellah (Fès). Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
+Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Données et Systèmes Cyber-Physiques (IA2S)** à l’Université Paris-Est Créteil (UPEC), après un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mehraz de Fès. Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
 
 ## 🔬 Projet de recherche
 
@@ -62,6 +62,7 @@ Diplômé d’un Master **Big Data & Systèmes Intelligents** à la Faculté des
 
 ## 🎓 Formation
 
+- **Master 2 Intelligence Artificielle, Science des Données et Systèmes Cyber-Physiques (IA2S)**, Université Paris-Est Créteil (UPEC) · 2026–2027
 - **Master Big Data & Systèmes Intelligents**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2024–2026
 - **Licence Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2023–2024
 - **DEUG Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2021–2023
