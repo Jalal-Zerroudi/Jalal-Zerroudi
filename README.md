@@ -100,6 +100,8 @@ Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Donn
 
 ## 📈 Activité GitHub
 
+L’animation ci-dessous est régénérée automatiquement chaque jour et après les mises à jour de `main`. Les exécutions concurrentes sont annulées pour éviter des publications simultanées sur la branche `output`.
+
 <div align="center">
 
 ![Animation du calendrier de contributions GitHub](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
