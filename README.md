@@ -100,7 +100,7 @@ Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Donn
 
 ## 📈 Activité GitHub
 
-L’animation ci-dessous est régénérée automatiquement chaque jour et après les mises à jour de `main`. Les exécutions concurrentes sont annulées pour éviter des publications simultanées sur la branche `output`.
+L’animation ci-dessous est régénérée automatiquement chaque jour et après les mises à jour de `main`. Les exécutions concurrentes sont annulées pour éviter des publications simultanées sur la branche `output`. La génération ne dépend d’aucun fichier de la branche principale : le workflow crée directement `dist/snake.svg`, puis publie uniquement ce répertoire sur `output`.
 
 <div align="center">
 
