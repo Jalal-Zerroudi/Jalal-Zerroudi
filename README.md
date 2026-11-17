@@ -17,6 +17,10 @@
 
 ---
 
+## 🧭 Navigation
+
+[Profil](#-profil) · [Projet de recherche](#-projet-de-recherche) · [Dépôts sélectionnés](#️-dépôts-sélectionnés) · [Expérience](#-expérience) · [Formation](#-formation) · [Compétences](#-compétences) · [Activités et langues](#-activités-et-langues) · [Activité GitHub](#-activité-github)
+
 ## 👋 Profil
 
 Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Données et Systèmes Cyber-Physiques (IA2S)** à l’Université Paris-Est Créteil (UPEC), après un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mehraz de Fès. Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
