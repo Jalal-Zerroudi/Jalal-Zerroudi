@@ -46,6 +46,7 @@ Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Donn
 | [`rag-context-citations`](https://github.com/Jalal-Zerroudi/rag-context-citations) | Indexation locale de documents TXT/PDF, recherche FAISS et réponses avec citations strictes des sources. |
 | [`DocMorph`](https://github.com/Jalal-Zerroudi/DocMorph) | Service de conversion documentaire fondé sur Docling, utilisable en API ou en ligne de commande. |
 | [`Wpf_App_Computer_Vision`](https://github.com/Jalal-Zerroudi/Wpf_App_Computer_Vision) | Application Windows en C#/.NET 8 pour expérimenter des opérations de traitement d’images. |
+| [`MM-CTR-WWW-2025`](https://github.com/Jalal-Zerroudi/MM-CTR-WWW-2025) | Pipeline multimodal de recommandation combinant séquences Word2Vec, embeddings CLIP, distillation et fusion adaptative. |
 
 ## 💼 Expérience
 
