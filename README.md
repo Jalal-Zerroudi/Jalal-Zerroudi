@@ -2,9 +2,9 @@
 
 # Jalal Zerroudi
 
-### Machine Learning · Deep Learning · Data Engineering
+### Doctorant en IA · IoT & WMSN · Reinforcement Learning
 
-[![Typing animation](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=680&lines=Machine+Learning+%26+Deep+Learning;Python+%7C+RAG+%7C+Reinforcement+Learning;Building+reproducible+data+and+AI+systems)](https://git.io/typing-svg)
+[![Typing animation](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=680&lines=PhD+Student+in+AI+%7C+IoT+%26+WMSN;Reinforcement+Learning+%7C+NS-3+%7C+NS3-AI;Building+reproducible+data+and+AI+systems)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://jalal-zerroudi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-zerroudi/)
@@ -23,7 +23,11 @@
 
 ## 👋 Profil
 
-Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Données et Systèmes Cyber-Physiques (IA2S)** à l’Université Paris-Est Créteil (UPEC), après un Master **Big Data & Systèmes Intelligents** à la Faculté des Sciences Dhar El Mehraz de Fès. Je m’intéresse à l’apprentissage automatique, aux systèmes intelligents et à la recherche appliquée en IA.
+**Doctorant en Intelligence Artificielle**, spécialisé dans l’**Internet des objets (IoT)** et les **réseaux de capteurs multimédias sans fil (WMSN)**. Titulaire d’un Master **Big Data & Systèmes Intelligents (BDSI)** de la Faculté des Sciences Dhar El Mehraz (FSDM), Université Sidi Mohamed Ben Abdellah (USMBA), Fès.
+
+Mes travaux portent sur l’optimisation des réseaux de capteurs par **apprentissage par renforcement**, en mêlant simulation (**NS-3 / NS3-AI**), IA embarquée et systèmes de données reproductibles. Je conçois des solutions mesurables, orientées délai, énergie et qualité de service.
+
+**Axes de recherche :** IA pour l’IoT · WMSN · Apprentissage par renforcement · Transmission multimédia économe en énergie
 
 ## 🔬 Projet de recherche
 
@@ -76,8 +80,8 @@ Actuellement étudiant en Master 2 **Intelligence Artificielle, Science des Donn
 
 ## 🎓 Formation
 
-- **Master 2 Intelligence Artificielle, Science des Données et Systèmes Cyber-Physiques (IA2S)**, Université Paris-Est Créteil (UPEC) · 2026–2027
-- **Master Big Data & Systèmes Intelligents**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2024–2026
+- **Doctorat en Intelligence Artificielle : IoT & WMSN** · 2026–présent
+- **Master Big Data & Systèmes Intelligents (BDSI)**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2024–2026 · *Diplômé*
 - **Licence Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2023–2024
 - **DEUG Sciences Mathématiques et Informatique**, FSDM – Université Sidi Mohamed Ben Abdellah, Fès · 2021–2023
 - **Baccalauréat Sciences Mathématiques A**, Lycée Lalla Amina, Meknès · 2021
