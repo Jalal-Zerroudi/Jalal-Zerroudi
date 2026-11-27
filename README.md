@@ -109,10 +109,6 @@ Mes travaux portent sur l’optimisation des réseaux de capteurs par **apprenti
 
 ## 📈 Activité GitHub
 
-[![État du workflow Snake](https://github.com/Jalal-Zerroudi/Jalal-Zerroudi/actions/workflows/snake.yml/badge.svg)](https://github.com/Jalal-Zerroudi/Jalal-Zerroudi/actions/workflows/snake.yml)
-
-L’animation est générée par le workflow `snake.yml` selon trois déclencheurs : planification quotidienne à **00:00 UTC**, lancement manuel depuis l’onglet Actions, et chaque mise à jour de `main`. Les exécutions concurrentes sont annulées pour éviter des publications simultanées sur la branche `output`. La génération ne dépend d’aucun fichier de la branche principale : le workflow crée directement `dist/snake.svg`, puis publie uniquement ce répertoire sur `output`.
-
 <div align="center">
 
 ![Animation du calendrier de contributions GitHub](https://raw.githubusercontent.com/Jalal-Zerroudi/Jalal-Zerroudi/output/snake.svg)
